@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/gordomasonico/workspace/CPP/calculadora/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -std=gnu++17 -fPIC -o CMakeFiles/calculadora.dir/main.cpp.o -c /home/gordomasonico/workspace/CPP/calculadora/main.cpp",
+  "file": "/home/gordomasonico/workspace/CPP/calculadora/main.cpp",
+  "output": "CMakeFiles/calculadora.dir/main.cpp.o"
+},
+{
+  "directory": "/home/gordomasonico/workspace/CPP/calculadora/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -std=gnu++17 -fPIC -o CMakeFiles/calculadora.dir/GridLayout.cpp.o -c /home/gordomasonico/workspace/CPP/calculadora/GridLayout.cpp",
+  "file": "/home/gordomasonico/workspace/CPP/calculadora/GridLayout.cpp",
+  "output": "CMakeFiles/calculadora.dir/GridLayout.cpp.o"
+},
+{
+  "directory": "/home/gordomasonico/workspace/CPP/calculadora/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -std=gnu++17 -fPIC -o CMakeFiles/calculadora.dir/Lexer.cpp.o -c /home/gordomasonico/workspace/CPP/calculadora/Lexer.cpp",
+  "file": "/home/gordomasonico/workspace/CPP/calculadora/Lexer.cpp",
+  "output": "CMakeFiles/calculadora.dir/Lexer.cpp.o"
+},
+{
+  "directory": "/home/gordomasonico/workspace/CPP/calculadora/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -std=gnu++17 -fPIC -o CMakeFiles/calculadora.dir/ListaEnlazada.cpp.o -c /home/gordomasonico/workspace/CPP/calculadora/ListaEnlazada.cpp",
+  "file": "/home/gordomasonico/workspace/CPP/calculadora/ListaEnlazada.cpp",
+  "output": "CMakeFiles/calculadora.dir/ListaEnlazada.cpp.o"
+},
+{
+  "directory": "/home/gordomasonico/workspace/CPP/calculadora/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -std=gnu++17 -fPIC -o CMakeFiles/calculadora.dir/Token.cpp.o -c /home/gordomasonico/workspace/CPP/calculadora/Token.cpp",
+  "file": "/home/gordomasonico/workspace/CPP/calculadora/Token.cpp",
+  "output": "CMakeFiles/calculadora.dir/Token.cpp.o"
+}
+]

@@ -1,0 +1,3 @@
+/home/gordomasonico/workspace/CPP/calculadora/build/CMakeFiles/calculadora.dir
+/home/gordomasonico/workspace/CPP/calculadora/build/CMakeFiles/edit_cache.dir
+/home/gordomasonico/workspace/CPP/calculadora/build/CMakeFiles/rebuild_cache.dir
