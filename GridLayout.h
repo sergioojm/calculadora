@@ -1,7 +1,8 @@
 #ifndef GRID_LAYOUT_H
 #define GRID_LAYOUT_H
 
-#include <QWidget>
+#include <QtWidgets>
+#include <qpushbutton.h>
 #include <string>
 
 using namespace std;
@@ -17,6 +18,7 @@ class GridLayout {
 
 private: 
 
+    QPushButton *createButton(const QString &text, QLineEdit *line);
     QWidget *window;
     string expresion;
 };

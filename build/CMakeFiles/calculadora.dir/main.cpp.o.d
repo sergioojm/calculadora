@@ -911,5 +911,4 @@ CMakeFiles/calculadora.dir/main.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtwidgetsversion.h \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgridlayout.h \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qpushbutton.h \
- /home/gordomasonico/workspace/CPP/calculadora/GridLayout.h \
- /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QWidget
+ /home/gordomasonico/workspace/CPP/calculadora/GridLayout.h

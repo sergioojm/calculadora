@@ -910,7 +910,7 @@ CMakeFiles/calculadora.dir/GridLayout.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtwidgetsversion.h \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qnamespace.h \
  /home/gordomasonico/workspace/CPP/calculadora/GridLayout.h \
- /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QWidget \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qpushbutton.h \
  /home/gordomasonico/workspace/CPP/calculadora/Lexer.h \
  /usr/include/c++/14/iostream /usr/include/c++/14/ostream \
  /usr/include/c++/14/ios /usr/include/c++/14/bits/basic_ios.h \
